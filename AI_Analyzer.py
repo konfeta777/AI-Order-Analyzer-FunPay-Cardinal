@@ -28,7 +28,7 @@ LOG_PATH = os.path.join(CFG_DIR, "report_log.json")
 YESTERDAY_PATH = os.path.join(CFG_DIR, "yesterday.json")
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-DEFAULT_API_KEY = "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"
+DEFAULT_API_KEY = "your key"
 OPENROUTER_MODEL = "arcee-ai/trinity-large-preview:free"
 
 DEFAULT_PROMPT = """Ты анализируешь переписку продавца и покупателя на маркетплейсе.
